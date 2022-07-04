@@ -1,0 +1,30 @@
+.carousel-inner{
+    height: 600px;
+}
+.img-fluid{
+    height: 250px;
+}
+
+
+.sociales{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
+.sociales li{
+    margin: 0 10px;
+}
+.sociales a{
+    text-decoration: none;
+    color: black;
+}
+.sociales a i{
+    font-size: 1.1rem;
+}
+.sociales a:hover{
+    color: aqua;
+}
+
