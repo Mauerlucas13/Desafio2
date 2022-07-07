@@ -1,49 +1,52 @@
-
-.carousel-inner{
-    height: 600px;
-}
-.img-fluid{
-    height: 250px;
+.carousel-inner {
+  height: 600px;
 }
 
-
-.sociales{
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 0 3rem 0;
+.img-fluid {
+  height: 250px;
 }
 
-.sociales li{
-    margin: 0 10px;
-}
-.sociales a{
-    text-decoration: none;
-    color: black;
-}
-.sociales a i{
-    font-size: 1.1rem;
-}
-.sociales a:hover{
-    color: aqua;
+.sociales {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
 }
 
-.inner{
-    overflow: hidden;
-}
-.inner img{
-    transition: all 1.5s ease;
-}
-.inner:hover img{
-    transform: scale(1.5);
+.sociales li {
+  margin: 0 10px;
 }
 
-.pasos{
-    position: absolute;
+.sociales a {
+  text-decoration: none;
+  color: black;
 }
 
-.borde{
-    border: 0.5px solid gray;
+.sociales a i {
+  font-size: 1.1rem;
 }
 
+.sociales a:hover {
+  color: aqua;
+}
+
+.inner {
+  overflow: hidden;
+}
+
+.inner img {
+  transition: all 1.5s ease;
+}
+
+.inner:hover img {
+  transform: scale(1.5);
+}
+
+.pasos {
+  position: absolute;
+}
+
+.borde {
+  border: 0.5px solid gray;
+}/*# sourceMappingURL=style.css.map */
