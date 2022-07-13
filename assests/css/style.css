@@ -28,7 +28,7 @@
 }
 
 .sociales a:hover {
-  color: aqua;
+  color: rgb(17, 28, 185);
 }
 
 .inner {
@@ -49,4 +49,8 @@
 
 .borde {
   border: 0.5px solid gray;
+}
+
+.navbar {
+  background-color: rgb(46, 35, 211);
 }/*# sourceMappingURL=style.css.map */
